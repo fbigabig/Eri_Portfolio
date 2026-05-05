@@ -1,5 +1,5 @@
 Eri Gill's programming portfolio.
-This portfolio is a showcase of my coding work done over the last few years as part of my application for FIEA.
+This portfolio is a showcase of my coding work done during my undergrad years.
 Each folder either contains the complete source code for a project, or a sampling of key pieces of source code for a large project.
 Game folders also contain examples of the final product (images/videos).
 Each folder contains its own readme with elaboration on what the code comes from and what its purpose is.
